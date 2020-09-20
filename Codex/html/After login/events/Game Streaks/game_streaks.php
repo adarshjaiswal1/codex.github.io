@@ -47,7 +47,7 @@
                   <li><a href="#about us">ABOUT US</a></li>
                   <li><a href="#contact">CONTACT</a></li>
                   <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"><?php echo $_SESSION['username'] ; ?>
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="/Codex/html/user dashboard/user_dashboard.php"><?php echo $_SESSION['username'] ; ?>
                           <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu">
